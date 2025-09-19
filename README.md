@@ -1,7 +1,7 @@
 
 <p align="center"><img src="/img/nv-xmonad-logo.png" width="500"></p>
 
-This XMonad configuration, designed for NixOS, offers a highly customizable and efficient workspace setup, drawing inspiration from Vim's modal editing style. It features dynamic mode switching, custom layouts, and seamless integration with tools like Xmobar, providing a minimalist and productive more ergonomical environment. You can find the documentation here: [nb link](https://nerdbude.com/nv-xmonad/) 
+This XMonad configuration, designed for NixOS, offers a highly customizable and efficient workspace setup, drawing inspiration from Vim's modal editing style. It features dynamic mode switching, custom layouts, and seamless integration with tools like Xmobar, providing a minimalist and productive more ergonomical environment. You can find the documentation here: [$NERDBUDE](https://nerdbude.com/nv-xmonad/) 
 
 ## Features
 
@@ -73,7 +73,7 @@ after a short `nixos-rebuild switch` the NV-XMonad config will work
 
 This configuration uses different modes for various tasks (Normal, ResizeMode, MoveMode, etc.). Here’s a brief overview of the keybindings:
 
-<p align="center"><img src="/img/nv-xmonad-keybindings.png" width="500"></p>
+<p align="center"><img src="/img/nv-xmonad-bindings.png" width="500"></p>
 
 * **Mode Switches**:
 
